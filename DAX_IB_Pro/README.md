@@ -14,4 +14,4 @@
 - Non-repainting, performance-safe, no warnings
 
 ## Screenshots
-See `screenshots/`.
+See ![DAX IB Pro](screenshots/dax-ib-pro-1.png) ![DAX IB Pro](screenshots/dax-ib-pro-2.png)
