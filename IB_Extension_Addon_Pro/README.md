@@ -10,4 +10,4 @@ Standalone IB alert engine built for session-based breakout workflows.
 - Non-repainting architecture, performance-safe
 
 ## Screenshots
-See `screenshots/`.
+See ![IB_Extension_Addon Pro](screenshots/dax-ext-1.png) ![IB_Extension_Addon Pro](screenshots/dax-ext-2.png)
