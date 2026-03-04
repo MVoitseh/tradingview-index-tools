@@ -1,0 +1,16 @@
+# NASDAQ Initial Balance Pro (US Cash IB)
+
+**Session:** 09:30–10:30 (Exchange Time)  
+**Market:** NQ / NASDAQ-100
+
+## Features
+- IB High / IB Low / Mid (50%)
+- Range-based extensions: ±1x / ±2x
+- Session-safe logic (no repaint / no shifting)
+- Clean level memory + controlled history
+- Alerts: IB formed, breakout/extension alerts
+- Close/Wick confirmation + reclaim + once-per-day guard
+- Clean UI, optimized objects, no warnings
+
+## Screenshots
+See `screenshots/`.
