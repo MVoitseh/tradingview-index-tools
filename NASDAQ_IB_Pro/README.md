@@ -13,4 +13,4 @@
 - Clean UI, optimized objects, no warnings
 
 ## Screenshots
-See `screenshots/`.
+See ![NASDAQ IB Pro](screenshots/NQ-ib-pro-1.png) ![NASDAQ IB Pro](screenshots/NQ-ib-pro-2.png)
