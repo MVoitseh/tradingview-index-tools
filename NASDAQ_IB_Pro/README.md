@@ -1,6 +1,6 @@
 # NASDAQ Initial Balance Pro (US Cash IB)
 
-**Session:** 09:30–10:30 (Exchange Time)  
+**Session:** 15:30–16:30 UTC +1 (Exchange Time)  
 **Market:** NQ / NASDAQ-100
 
 ## Features
